@@ -1,2 +1,2 @@
 # Webpack-Configuration
-Webpack 3 config
+Webpack 3 config.
