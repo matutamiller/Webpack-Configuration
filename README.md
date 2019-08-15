@@ -1,2 +1,2 @@
 # Webpack-Configuration
-Webpack 3 confiuration.
+Webpack 3 confiuration
